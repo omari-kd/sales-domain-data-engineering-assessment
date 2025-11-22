@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price
+1,Laptop,Electronics,1000
+2,Smartphone,Electronics,700
+3,Tablet,Electronics,350
+4,Monitor,Accessories,200
+5,Keyboard,Accessories,80
+6,Mouse,Accessories,40
+7,Headphones,Accessories,120
+8,Printer,Office,150
+9,Webcam,Office,90
+10,Desk Lamp,Office,60
